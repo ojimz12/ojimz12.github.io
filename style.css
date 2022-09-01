@@ -634,8 +634,8 @@ footer {
         }
 
         section {
-            padding: 8rem 0;
-            margin: 8rem 0;
+            padding: 9rem 0;
+            margin: 9rem 0;
         }
 
         h1 {
@@ -695,7 +695,7 @@ footer {
           }
 
           .header_right-bg {
-            bottom: 50%;
+            bottom: 40%;
           }
 
           .header_socials {
